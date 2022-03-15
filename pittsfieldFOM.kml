@@ -13,7 +13,7 @@
         <outline>1</outline>
       </PolyStyle>
       <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
+        <text>Pittsfield FOM</text>
       </BalloonStyle>
     </Style>
     <Style id="poly-000000-1200-77-nodesc-highlight">
@@ -27,7 +27,7 @@
         <outline>1</outline>
       </PolyStyle>
       <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
+        <text>Pittsfield FOM</text>
       </BalloonStyle>
     </Style>
     <StyleMap id="poly-000000-1200-77-nodesc">
